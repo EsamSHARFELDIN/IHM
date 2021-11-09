@@ -1,12 +1,12 @@
 # IHM_DEBACHY_BIGDOWSKI_SHARFELDIN_TRAORE
 
 # Autour 
-    DEBACHY
-    BIGDOWSKI
-    SHARFELDIN
-    TRAORE
+    Alexandre DEBACHY       - alexandre.debachy.etu@univ-lille.fr
+    Matheo BIGDOWSKI        - matheo.bigdowski.etu@univ-lille.fr
+    Esam SHARFELDIN         - esam.sharfeldin.etu@univ-lille.fr
+    Adama TRAORE            - adama.traore.etu@univ-lille.fr
 
-# Sujet 
+# Thématique générale 
     # Rythme detecteur 
 
 # Autre proposition de Sujet 
@@ -66,17 +66,21 @@
 
 
 
+# Toutes les fonctionnalités issues du brainstorming
 
+
+# Fonctionnalités suite au regroupement
+
+
+# Choix des fonctionnalités à l’issu du vote
+
+
+# Scénario de conception
 
 
 Une mélodie, un rythme, un instrument particulier, date,chanteur,style,circonstances,avec qui tu etais,
 
-
-
 une autre personne te l'as dit,internet,radio,film,affiche,concert,par chance, pas retrouver,
-
-
 toute durée possible.
-
 
 film,concert,radio,internet,un jeu,magasin/restaurant,transport en commun
