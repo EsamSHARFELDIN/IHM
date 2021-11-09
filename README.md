@@ -1,6 +1,7 @@
 # IHM_DEBACHY_BIGDOWSKI_SHARFELDIN_TRAORE
 
-rythme detecteur grand gagnant
+#rythme detecteur grand gagnant
+
 feu rouge malvoyant
 prendre en photo l'echequier et dire quels pion peux faire quoi
 
