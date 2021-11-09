@@ -9,11 +9,12 @@
 # Sujet 
     # Rythme detecteur 
 
-# Autre Proposition de Sujet 
+# Autre proposition de Sujet 
     feu rouge malvoyant
     prendre en photo l'echequier et dire quels pion peux faire quoi
 
-# Question
+# Question d'interview
+
     ******************************* Question ************************************
     Cela t'est-il déjà arrivé d'oublier une chanson?
     Où est ce que tu l'as entendu?
@@ -22,6 +23,7 @@
     Combien de temps pour la retrouver?
 
 # Interview
+
     ******************************* Interview  ************************************
     # Interview de Mathéo, 21 ans
         Oui biensûr comme tout le monde, j'ai déjà oublié une chanson en me souvenant que d'une partie du refrain
@@ -57,22 +59,24 @@
         Une fois en regardant une vidéo yt j'ai retrouvé une musique que je cherchais.
 
 # Scenario d'usage
-    *******************************scenario d'usage*************
-    Un homme qui essayait de se souvenir d'une musique equ'il aimais bien plus jeune,mais avec seulement le genre de la musique et l'année approximative,et malgres des recherches sur google avec des recherhces comme les quelques mots qui se souvient suivis de song ou lyrics,il n'a eu de resultats probant.Meme shazam n'a pas pu l'aider car il ne se rapellais pas suffisament.Lorsqu'il se rendit a son supermarché preferer, il entendu un air qu'il lui rapellas un air la dites musique,cela lui rappela des souvenirs, mais toujours impossible de mettre le doigt dessus, comment la retrouver ?
+
+    ******************************* Scenario d'usage *************
+    Un homme qui essayait de se souvenir d'une musique equ'il aimais bien plus jeune, mais avec seulement 
+    le genre de la musique et l'année approximative, et malgres des recherches sur google avec des recherhces comme les quelques mots qui se souvient suivis de song ou lyrics,il n'a eu de resultats probant. Meme shazam n'a pas pu l'aider car il ne se rapellais pas suffisament. Lorsqu'il se rendit a son supermarché preferer, il entendu un air qu'il lui rapellas un air la dites musique, cela lui rappela des souvenirs, mais toujours impossible de mettre le doigt dessus, comment la retrouver ?
 
 
 
 
 
 
-    Une mélodie, un rythme, un instrument particulier, date,chanteur,style,circonstances,avec qui tu etais,
-
-    
-
-    une autre personne te l'as dit,internet,radio,film,affiche,concert,par chance, pas retrouver,
+Une mélodie, un rythme, un instrument particulier, date,chanteur,style,circonstances,avec qui tu etais,
 
 
-    toute durée possible.
+
+une autre personne te l'as dit,internet,radio,film,affiche,concert,par chance, pas retrouver,
 
 
-    film,concert,radio,internet,un jeu,magasin/restaurant,transport en commun
+toute durée possible.
+
+
+film,concert,radio,internet,un jeu,magasin/restaurant,transport en commun
