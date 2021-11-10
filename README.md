@@ -1,6 +1,6 @@
 # IHM_DEBACHY_BIGDOWSKI_SHARFELDIN_TRAORE
 
-# Autour 
+# Author 
     Alexandre DEBACHY       - alexandre.debachy.etu@univ-lille.fr
     Matheo BIGDOWSKI        - matheo.bigdowski.etu@univ-lille.fr
     Esam SHARFELDIN         - esam.sharfeldin.etu@univ-lille.fr
