@@ -11,17 +11,17 @@
     # Rythme detecteur 
 
 # Autre proposition de Sujet 
-    feu rouge malvoyant
-    prendre en photo l'echequier et dire quels pion peux faire quoi
+    * feu rouge malvoyant
+    * prendre en photo l'echequier et dire quels pion peux faire quoi
 
 # Question d'interview
 
-    ******************************* Question ************************************
-    Cela t'est-il déjà arrivé d'oublier une chanson?
-    Où est ce que tu l'as entendu?
-    Qu'est ce que tu qu te rapelles de la chanson?
-    Si tu l'as retrouvé, comment?
-    Combien de temps pour la retrouver?
+******************************* Question ************************************
+* Cela t'est-il déjà arrivé d'oublier une chanson?
+* Où est ce que tu l'as entendu?
+* Qu'est ce que tu qu te rapelles de la chanson?
+* Si tu l'as retrouvé, comment?
+* Combien de temps pour la retrouver?
 
 # Interview
 
