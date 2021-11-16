@@ -61,10 +61,10 @@
 # Scenario d'usage
 
     ******************************* Scenario d'usage *************
-    Un homme qui essayait de se souvenir d'une musique equ'il aimais bien plus jeune, mais avec seulement 
+    Un homme qui essayait de se souvenir d'une musique qu'il aimait bien plus jeune, mais avec seulement 
     le genre de la musique et l'année approximative, et malgres des recherches sur google avec des recherhces comme les quelques 
     mots qui se souvient suivis de song ou lyrics,il n'a eu de resultats probant. Meme shazam n'a pas pu l'aider car il ne se rapellais 
-    pas suffisament. Lorsqu'il se rendit a son supermarché preferer, il entendu un air qu'il lui rapellas un air la dites musique,
+    pas suffisament. Lorsqu'il se rendit a son supermarché prefere, il entendu un air qu'il lui rapellas un air la dites musique,
     cela lui rappela des souvenirs, mais toujours impossible de mettre le doigt dessus, comment la retrouver ?
 
 
