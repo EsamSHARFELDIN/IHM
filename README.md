@@ -90,6 +90,33 @@
 
 ******************************* Scénario de conception ************************************
 
+Après son échec sur le forum Antoine chercha une application sur le playstore qui pourrait l'aider à trouver cette musique. 
+Il tomba sur l'application "TrouveTonSon" (5 étoiles sur le playstore) et la téléchargea.
+Après avoir lancé cette application , une fenêtre de dialogue s'ouvrit lui demandant :
+
+* Connaissez vous le titre de la chanson ?
+- Non 
+* Connaissez vous le nom de l'artiste / un des artistes qui chante cette chanson ? 
+- Non
+* La chanson que vous recherchez est-elle chantée par un seul chanteur ? 
+- Oui
+* Cette artiste est-elle une femme ?
+- Non
+* Quelle est la langue de la chanson ? 
+- Anglais 
+* Dans quelle catégorie musicale s'inscrit votre chanson ? 
+- Rock
+* Pouvez-vous situer cette musique dans le temps ?
+- Non
+
+Une nouvelle fenêtre s'ouvrit proposant à Antoine de choisir entre chanter sa chanson ou taper la partition. 
+Antoine chosit de chanter sa chanson.
+Un bonton d'enregistrement apparut et Antoine laissa son doigt appuyé dessus pendant qu'il chantait l'air et les paroles qu'il avait en tête depuis des semaines.
+L'application lui proposat une liste de titres qu'elle avait reconnu dans son air. 
+Antoine posa son doigt sur la première musique qui correspondait au titre :" Yellow Lemon Tree " de Fools Garden. 
+Une musique se lança correspondant aux quelques secondes de l'air qu'il avait chanté. 
+
+
 
 # Toutes les fonctionnalités issues du brainstorming
 
@@ -112,65 +139,39 @@ toute durée possible.
 
 film,concert,radio,internet,un jeu,magasin/restaurant,transport en commun
 
-
-quelques paroles ecrites pour avoir la chanson 
-possibilites de noter "j'aime"
-profil utilisateur pour affiner les recherchers
-identifier un type de musique
-musique proposer en fonction de nos recherches x2 
-forum 
-choix limité avec le plus de probalitité
-top musique chaque année
-extrait des musique proposé
-conserver l'historique
-recherche via audio 
-liste des titre les plus chercher par les autres
-recherche a la akinator x6
-recherche via partition
-recherche sur internet google - youtube 
-historique des radio 
-actu de l'artiste de la musique
-passer la musique a l'envers
-on donne une musique et sa donne si sa passe dans une radio
-mix musique une parole et une instru
-
-
+# Générez des idées
+   * quelques paroles ecrites pour avoir la chanson 
+   * possibilites de noter "j'aime"
+   * profil utilisateur pour affiner les recherchers
+   * identifier un type de musique
+   * musique proposer en fonction de nos recherches x2 
+   * forum 
+   * choix limité avec le plus de probalitité
+   * top musique chaque année
+   * extrait des musique proposé
+   * conserver l'historique
+   * recherche via audio 
+   * liste des titre les plus chercher par les autres
+   * recherche a la akinator x6
+   * recherche via partition
+   * recherche sur internet google - youtube 
+   * historique des radio 
+   * actu de l'artiste de la musique
+   * passer la musique a l'envers
+   * on donne une musique et sa donne si sa passe dans une radio
+   * mix musique une parole et une instru
 
 
 
 
-recherche a la akinator
-conserver l'historique
-extrait des musiques proposé
-top musique chaque année
-historique des radio
-forum
+
+
+* recherche a la akinator
+* conserver l'historique
+* extrait des musiques proposé
+* top musique chaque année
+* historique des radio
+* forum
 
 
 
-
-Après son échec sur le forum Antoine chercha une application sur le playstore qui pourrait l'aider à trouver cette musique. 
-Il tomba sur l'application "TrouveTonSon" (5 étoiles sur le playstore) et la téléchargea.
-Après avoir lancé cette application , une fenêtre de dialogue s'ouvrit lui demandant :
-
--Connaissez vous le titre de la chanson ?
--Non 
--Connaissez vous le nom de l'artiste / un des artistes qui chante cette chanson ? 
--Non
--La chanson que vous recherchez est-elle chantée par un seul chanteur ? 
--Oui
--Cette artiste est-elle une femme ?
--Non
--Quelle est la langue de la chanson ? 
--Anglais 
--Dans quelle catégorie musicale s'inscrit votre chanson ? 
--Rock
--Pouvez-vous situer cette musique dans le temps ?
--Non
-
-Une nouvelle fenêtre s'ouvrit proposant à Antoine de choisir entre chanter sa chanson ou taper la partition. 
-Antoine chosit de chanter sa chanson.
-Un bonton d'enregistrement apparut et Antoine laissa son doigt appuyé dessus pendant qu'il chantait l'air et les paroles qu'il avait en tête depuis des semaines.
-L'application lui proposat une liste de titres qu'elle avait reconnu dans son air. 
-Antoine posa son doigt sur la première musique qui correspondait au titre :" Yellow Lemon Tree " de Fools Garden. 
-Une musique se lança correspondant aux quelques secondes de l'air qu'il avait chanté. 
