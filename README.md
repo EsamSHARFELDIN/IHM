@@ -173,5 +173,8 @@ film,concert,radio,internet,un jeu,magasin/restaurant,transport en commun
 * historique des radio
 * forum
 
-
+Pofinage de l'interraction Homme-Machine dans la derniere partie 
+Idées : 
+- Mise en valeur lorsque les paroles sont fausse 
+- Mise en partition de l'air chanté
 
