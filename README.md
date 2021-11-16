@@ -66,8 +66,12 @@
     mots qui se souvient suivis de song ou lyrics,il n'a eu de resultats probant. Meme shazam n'a pas pu l'aider car il ne se rapellais 
     pas suffisament. Lorsqu'il se rendit a son supermarché prefere, il entendu un air qu'il lui rapellas un air la dites musique,
     cela lui rappela des souvenirs, mais toujours impossible de mettre le doigt dessus, comment la retrouver ?
-
-
+    Version 2 :
+    Antoine se baladais en ayant ces extrait de musiques en tete " green apple tree" et l'air " ding ding tun tutun"
+    il cherchas ces mots clé sur google mais il tomba sur un musique qui avais ce titre la, ce n'etait pas la chanson chercher.
+    il essayas aussi de la chanter a shazam avec l'air qu'il avais dans la tête, sans succes.
+    Il postas une annonce sur un forum de musique, mais avec des informations si peux concretes personne ne parvient a l'aider.
+    Ducoup il n'as pas reussis a trouver la musique chercher.
 
 # Toutes les fonctionnalités issues du brainstorming
 
