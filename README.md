@@ -68,11 +68,11 @@
     pas suffisament. Lorsqu'il se rendit a son supermarché prefere, il entendu un air qu'il lui rapellas un air la dites musique,
     cela lui rappela des souvenirs, mais toujours impossible de mettre le doigt dessus, comment la retrouver ?
     Version 2 :
-    Antoine se baladais en ayant ces extrait de musiques en tete " green apple tree" et l'air " ding ding tun tutun"
-    il cherchas ces mots clé sur google mais il tomba sur un musique qui avais ce titre la, ce n'etait pas la chanson chercher.
-    il essayas aussi de la chanter a shazam avec l'air qu'il avais dans la tête, sans succes.
-    Il postas une annonce sur un forum de musique, mais avec des informations si peux concretes personne ne parvient a l'aider.
-    Ducoup il n'as pas reussis a trouver la musique chercher.
+    Antoine se baladait en ayant cet extrait de musique en tête " green apple tree" et l'air " ding ding tun tutun"
+    il chercha ces mots clé sur google mais il tomba sur un musique qui avait ce titre là, ce n'etait pas la chanson cherchée.
+    il essaya aussi de la chanter à shazam avec l'air qu'il avait dans la tête, sans succes.
+    Il posta une annonce sur un forum de musique, mais avec des informations si peu concretes que personne ne parvint à l'aider.
+    Ducoup il n'a pas reussi à trouver la musique cherchée.
 
 # Toutes les fonctionnalités issues du brainstorming
 
