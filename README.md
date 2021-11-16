@@ -1,10 +1,11 @@
-# IHM_DEBACHY_BIGDOWSKI_SHARFELDIN_TRAORE
+# IHM_DEBACHY_BIGDOWSKI_SHARFELDIN_TRAORE_DEMOLIN
 
 # Author 
     Alexandre DEBACHY       - alexandre.debachy.etu@univ-lille.fr
     Matheo BIGDOWSKI        - matheo.bigdowski.etu@univ-lille.fr
     Esam SHARFELDIN         - esam.sharfeldin.etu@univ-lille.fr
     Adama TRAORE            - adama.traore.etu@univ-lille.fr
+    Baptiste Demolin        - baptiste.demolin.etu@univ-lille.fr
 
 # Thématique générale 
     # Rythme detecteur 
