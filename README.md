@@ -25,14 +25,13 @@
 
 # Interview
 
-    ******************************* Interview  ************************************
-    # Interview de Mathéo, 21 ans
+******************************* Interview  ************************************
+* Interview de Mathéo, 21 ans
         Oui biensûr comme tout le monde, j'ai déjà oublié une chanson en me souvenant que d'une partie du refrain
         Je l'ai entendu à la radio.
         Je l'ai retrouvé grâce au film Rocky.
         Cela m'a pris une bonne semaine pour la retrouver.
-
-    # Interview de Rémi
+* Interview de Rémi
         Oui, souvent ça m'arrive d'en oublier et de pas retrouver
         ça n'me vient pas là
         Le rythme de la chanson, ou le style de la musique.
@@ -40,14 +39,14 @@
         ça prend du temps, 5 mins comme pas du tout.
 
 
-    # Interview de Remy.
+* Interview de Remy.
         Oui
         à la radio
         L'air de la chanson, quelques paroles.
         Shazam, sinon taper les lyrics sur google.
         Plusieurs heures.
 
-    # Interview de Youssef.
+* Interview de Youssef.
         Oui ça m'est déjà arrivé plein de fois.
         En écoutant une autre musique qui me rappelle celle ci.
         Le tempo et le rythme.
@@ -61,13 +60,16 @@
 
 # Scenario d'usage
 
-    ******************************* Scenario d'usage *************
+******************************* Scenario d'usage *************
+* Version 1 :
+
     Un homme qui essayait de se souvenir d'une musique qu'il aimait bien plus jeune, mais avec seulement 
     le genre de la musique et l'année approximative, et malgres des recherches sur google avec des recherhces comme les quelques 
     mots qui se souvient suivis de song ou lyrics,il n'a eu de resultats probant. Meme shazam n'a pas pu l'aider car il ne se rapellais 
     pas suffisament. Lorsqu'il se rendit a son supermarché prefere, il entendu un air qu'il lui rapellas un air la dites musique,
     cela lui rappela des souvenirs, mais toujours impossible de mettre le doigt dessus, comment la retrouver ?
-    Version 2 :
+
+* Version 2 :
     Antoine se baladait en ayant cet extrait de musique en tête " green apple tree" et l'air " ding ding tun tutun"
     il chercha ces mots clé sur google mais il tomba sur un musique qui avait ce titre là, ce n'etait pas la chanson cherchée.
     il essaya aussi de la chanter à shazam avec l'air qu'il avait dans la tête, sans succes.
