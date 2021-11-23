@@ -126,7 +126,12 @@ Une musique se lança correspondant aux quelques secondes de l'air qu'il avait c
 
 # Choix des fonctionnalités à l’issu du vote
 
-
+recherche a la akinator
+conserver l'historique
+extrait des musiques proposé
+top musique chaque année
+historique des radio
+forum
 
 
 
