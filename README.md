@@ -10,7 +10,7 @@
 
 # Thématique générale 
 
-    # Rythme detecteur 
+    # Rythme detecteur ( Find Your Music )
 
 # Autre proposition de Sujet 
 
